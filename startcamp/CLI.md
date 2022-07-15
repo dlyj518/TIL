@@ -94,8 +94,9 @@
 
 - git add '~~.py'
 - git config --global user.email "이메일"
-  - git config --global user.name "이름"
+- git config --global user.name "이름"
 - git commit -m "SC Day2 | python intro"
+  - 로컬에 저장
 
 
 
@@ -116,7 +117,7 @@
   git remote add origin https://github.com/dlyj518/TIL.git
   # 원격저장소 origin 추가
   git push -u origin master
-  # commit 있는걸 origin에 추가
+  # commit 있는걸 origin에 추가(로컬에 저장하는게 아닌 공유장소에 업로드)
   git remote -v
   리모트
   ```
