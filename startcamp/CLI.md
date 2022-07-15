@@ -133,3 +133,7 @@
 1. code 버튼 통해 다운
    - 마스터가 없어서 기각
 2. git clone (복사한 주소)
+
+
+
+add > commit > push > clone
