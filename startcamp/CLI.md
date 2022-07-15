@@ -57,3 +57,68 @@
 > ```
 
 ### 
+
+#### 온라인 실습실
+
+- 당일 5시 시작, 당일 제출
+- 온라인 제출`
+
+#### 깃랩
+
+- pdf repo
+- 그 주 금요일까지
+- 월~목 각각 화화목목에 풀이
+
+ 
+
+### Git
+
+#### Repository
+
+특정 디렉토리를 버전 관리하는 저장소
+
+- git init 명령어로 로컬 저장소 생성
+- .git 디렉토리에서 관련 정보 있음
+- git status : 현재 상태
+
+
+
+- Working Directory : 실제 디렉토리, 현재 작업중인 곳
+- Staging Area : commit으로 남기고 싶은 곳
+- Repository : commit들이 저장되는 곳
+- `git add` : Working Directory > Staging Area, tracked됨
+- `git commit` : Staging Area > Repository
+- Staging Area가 있는 이유 : commit 버전 관리하기 위함
+
+
+
+- git add '~~.py'
+- git config --global user.email "이메일"
+  - git config --global user.name "이름"
+- git commit -m "SC Day2 | python intro"
+
+
+
+- git log : 로그 보기
+- git log --oneline
+
+앞에 나오는 이상한 문자열 : 고유번호 / oneline도 고유값
+
+- rm : 삭제
+
+
+
+- git push
+
+- 새 repository 만들기
+
+- ```git
+  git remote add origin https://github.com/dlyj518/TIL.git
+  # 원격저장소 origin 추가
+  git push -u origin master
+  # commit 있는걸 origin에 추가
+  git remote -v
+  리모트
+  ```
+
+- 
