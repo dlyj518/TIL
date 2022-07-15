@@ -14,9 +14,7 @@ while q:
             if maps[tx][ty]==3:
                 x=1
                 q=[]
-            if maps[tx][ty]==0 & deep[tx][ty]!=0:
-                deep[x][y]==1
+            if maps[tx][ty]==0 & deep[tx][ty]==0:
+                maps[x][y]=1
                 q.append((tx,ty))
-    print(q)
 print('#{} {}'.format(1, x))
-k=0

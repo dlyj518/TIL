@@ -96,7 +96,7 @@
 - git config --global user.email "이메일"
 - git config --global user.name "이름"
 - git commit -m "SC Day2 | python intro"
-  - 로컬에 저장
+  - 로컬에 저장( "" 메세지(m)를 보냄)
 
 
 
@@ -113,13 +113,23 @@
 
 - 새 repository 만들기
 
-- ```git
-  git remote add origin https://github.com/dlyj518/TIL.git
+- ```bash
+  $ git remote add origin https://github.com/dlyj518/TIL.git
   # 원격저장소 origin 추가
-  git push -u origin master
+  $ git push -u origin master
   # commit 있는걸 origin에 추가(로컬에 저장하는게 아닌 공유장소에 업로드)
-  git remote -v
-  리모트
+  $ git remote -v
+  # 리모트
   ```
 
-- 
+- mv (파일) (위치) : 파일을 위치로 이동
+
+- git remote add second
+
+
+
+#### github에서 받아오기
+
+1. code 버튼 통해 다운
+   - 마스터가 없어서 기각
+2. git clone (복사한 주소)
