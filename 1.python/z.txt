@@ -20,6 +20,3 @@ class Doggy:
     
     def get_status():
         print(f'태어난 개 : {Doggy.birth_of_dogs}마리/n총 개 : {Doggy.num_of_dogs}마리')
-
-sangeun = Doggy('상근이', '삽살개')
-print(Doggy.get_status())
