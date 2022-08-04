@@ -1,0 +1,3 @@
+beautify
+ctrl shift p : open keaboard
+beautify selection : ctrl+shift+f
