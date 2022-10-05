@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Algorithm/12. APS 응용_그래프, 백트래킹.md",
+            "file": "5. Database/01. Database.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Algorithm/12. APS 응용_그래프, 백트래킹.md",
+                "file": "5. Database/01. Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Algorithm/12. APS 응용_그래프, 백트래킹.md",
+                "file": "5. Database/01. Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Algorithm/12. APS 응용_그래프, 백트래킹.md"
+                "file": "5. Database/01. Database.md"
               }
             }
           }
@@ -130,11 +130,15 @@
   },
   "active": "40781fdd886d3889",
   "lastOpenFiles": [
-    "3. Algorithm/10. APS 응용_완전탐색,그리디 - 복사본.md",
+    "5. Database/02. Database_2.md",
+    "5. Database/01. Database.md",
+    "1.python/md/01. Python 기초.md",
+    "4. Django/01. Django.md",
+    "3. Algorithm/10. APS 응용_완전탐색,그리디.md",
     "3. Algorithm/12. APS 응용_그래프, 백트래킹.md",
     "3. Algorithm/11. 분할 정복, 백트래킹.md",
-    "3. Algorithm/08. 컴퓨팅 사고력.md",
-    "3. Algorithm/09. APS 응용_Start.md",
-    "3. Algorithm/02. 배열 2.md"
+    "1.python/md/03. 데이터 구조.md",
+    "1.python/md/02. 제어문 및 함수.md",
+    "3. Algorithm/03. 문자열.md"
   ]
 }
