@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Javascript/01. 기초 문법.md",
+                "file": "7. Vue/05. Vuex with DRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Javascript/01. 기초 문법.md",
+                "file": "7. Vue/05. Vuex with DRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Javascript/01. 기초 문법.md",
+                "file": "7. Vue/05. Vuex with DRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Javascript/01. 기초 문법.md"
+                "file": "7. Vue/05. Vuex with DRF.md"
               }
             }
           }
@@ -135,9 +135,6 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
-  },
-  "ribbon": {
-    "mostRecentAction": ""
   },
   "active": "5291c2cd663a8d40",
   "lastOpenFiles": [
